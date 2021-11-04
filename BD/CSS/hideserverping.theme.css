@@ -1,12 +1,3 @@
-/**
-* @name Hide Server Ping
-* @author Maxnflaxl#8141
-* @version 1.0.0
-* @description A Theme wich hides the red ping on Server icons
-* @source https://github.com/Maxnflaxl1O/Discord-Stuff/blob/main/BD/CSS/hideserverping.theme.css
-* @updateUrl https://github.com/Maxnflaxl1O/Discord-Stuff/blob/main/BD/CSS/hideserverping.theme.css
-*/
-@import url('https://github.com/Maxnflaxl1O/Discord-Stuff/blob/main/BD/CSS/hideserverping.theme.css');
-:root{
-  --display: none
+.numberBadge-2s8kKX {
+  display: var(--show);
 }
