@@ -1,4 +1,8 @@
 <h1>CSS</h1>
 
-<h3>Server ping( <a href="https://github.com/Maxnflaxl1O/Discord-Stuff/blob/main/BD/CSS/hideserverping.theme.css">CLICK ME<a> )</h3>
-  <p>Hides the red ping icon on Servers <-- will be uploaded again soon</p>
+    <ul>
+      <li>FULL CSS</li> <p> the css i use every day </p> <a href="https://github.com/Maxnflaxl1O/Discord-Stuff/blob/main/BD/CSS/hideserverping.theme.css">CLICK ME<a>
+  <li>Hide Server Ping</li>
+  <li>Hide Server Boost ( boost now thing )</li>
+</ul>  
+
